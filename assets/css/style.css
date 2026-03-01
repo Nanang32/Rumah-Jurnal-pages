@@ -1,0 +1,10 @@
+
+body { font-family: 'Inter', sans-serif; background:#f4f6f9; }
+.academic-navbar { background:#0f234b; }
+.journal-card { background:#fff; border:1px solid #e6e9ef; border-radius:12px; transition:0.25s; }
+.journal-card:hover { box-shadow:0 8px 24px rgba(0,0,0,0.06); transform:translateY(-3px); }
+.btn-academic { background:#0f234b; color:#fff; border-radius:6px; }
+.btn-academic:hover { background:#0c1c3a; color:#fff; }
+.btn-outline-academic { border:1px solid #0f234b; color:#0f234b; border-radius:6px; }
+.btn-outline-academic:hover { background:#0f234b; color:#fff; }
+.academic-footer { background:#0f234b; color:#fff; }
